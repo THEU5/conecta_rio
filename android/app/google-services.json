@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021821238040",
+    "project_id": "conect-rio-995ea",
+    "storage_bucket": "conect-rio-995ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021821238040:android:2af5b6ea971835ef31bc6d",
+        "android_client_info": {
+          "package_name": "com.mycompany.conectario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoPxSXMvTT9aE4HoMrcDZs-eSE_0_-Lrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
